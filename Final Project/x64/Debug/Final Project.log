@@ -1,0 +1,7 @@
+﻿  Menu.cpp
+C:\Users\Dell\OneDrive\Desktop\New folder\Final Project\Menu.cpp(84,13): warning C4305: '=': truncation from 'int' to 'sf::Uint8'
+C:\Users\Dell\OneDrive\Desktop\New folder\Final Project\Menu.cpp(84,13): warning C4309: '=': truncation of constant value
+C:\Users\Dell\OneDrive\Desktop\New folder\Final Project\Menu.cpp(114,18): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  Player.cpp
+  Generating Code...
+  Final Project.vcxproj -> C:\Users\Dell\OneDrive\Desktop\New folder\x64\Debug\Final Project.exe
